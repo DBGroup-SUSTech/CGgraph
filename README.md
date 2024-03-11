@@ -106,4 +106,4 @@ In our project, we've developed some quite interesting tools that I find particu
 - Lightweight log
 - GPU-FriendlyBitmap
 
-The latest version of CoroGraph will be maintained [here](https://github.com/PengBo410/CGgraphV1).
+The latest version of CGgraph will be maintained [here](https://github.com/PengBo410/CGgraphV1).
